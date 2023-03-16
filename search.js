@@ -1,7 +1,6 @@
 const search = document.getElementById('search')
 let timer = null
 const delay = 250
-const dev ='111';
 // keypress - нажали и отпустили клавишу
 search.addEventListener('keypress',searchSend)
 
